@@ -40,6 +40,3 @@ Licensed under the MIT License – free to use and modify.
 
 👨‍💻 Author
 Built with ❤️ by Haleema Sadiya
-
-yaml
-Copy code
