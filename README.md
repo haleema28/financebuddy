@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Secure Finance Platform
 
-## Getting Started
+A modern finance management application that combines **AI-driven receipt scanning**, **budget monitoring**, and **automated financial insights** to help users stay on top of their expenses.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Key Features
+- 🔐 **Secure Dashboard** – Manage and track transactions with ease  
+- 🤖 **AI-Powered Receipt Scanning** – Extracts and categorizes data using the Gemini API  
+- ⚡ **Smart Budget Alerts** – Notifies users when spending exceeds limits  
+- 📩 **Automated Monthly Insights** – Personalized financial reports via Inngest + Resend  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **AI Integration:** Gemini API  
+- **Automation & Emails:** Inngest + Resend  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
+📊 How It Works
+Upload receipts → AI extracts merchant, date, items, and amount
 
-## Learn More
+Transactions dashboard → View, filter, and analyze spending
 
-To learn more about Next.js, take a look at the following resources:
+Budget alerts → Get notified instantly when limits are crossed
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Monthly insights → Receive an automated financial summary by email
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🤝 Contributing
+Contributions and feedback are welcome!
+Feel free to fork the repo, open an issue, or submit a PR.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📜 License
+Licensed under the MIT License – free to use and modify.
+
+👨‍💻 Author
+Built with ❤️ by Haleema Sadiya
+
+yaml
+Copy code
